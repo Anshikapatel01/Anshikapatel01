@@ -1,6 +1,6 @@
 # Hi, I'm Anshika Patel 👋
 
-🎓 B.Tech CSE | Vaishnavi Institute of Technology & Science  
+🎓 B.Tech AIML | Vaishnavi Institute of Technology & Science  
 💻 Aspiring Full Stack Developer  
 🌱 Currently learning: Java, ML, Web Development  
 📍 Bhopal, India  
