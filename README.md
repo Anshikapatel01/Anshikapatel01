@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anshika Patel 👋
 
-<!--
-**Anshikapatel01/Anshikapatel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE | Vaishnavi Institute of Technology & Science  
+💻 Aspiring Full Stack Developer  
+🌱 Currently learning: Java, ML, Web Development  
+📍 Bhopal, India  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+Python | C++ | HTML | CSS | SQL | JavaScript (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+- AI & Machine Learning
+- Data Science
+- Web & App Development
+- Cybersecurity
+
+## 📫 Connect
+[LinkedIn Profile](https://www.linkedin.com/in/anshika-patel-0b9a67311)
