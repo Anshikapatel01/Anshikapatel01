@@ -49,7 +49,7 @@
 
 
 
-![Anshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshikapatel01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Anshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshikapatel01&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 
@@ -62,11 +62,5 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anshikapatel01&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Anshikapatel01&theme=tokyonight)
-
-
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshikapatel01&layout=compact&theme=tokyonight)
