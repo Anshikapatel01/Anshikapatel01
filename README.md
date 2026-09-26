@@ -1,14 +1,12 @@
-# Hi, I'm Anshika Patel 👋
+👋 Hi, I'm Anshika Patel
 
-🎓 B.Tech AIML Student | Vaishnavi Institute of Technology & Science
+🎓 B.Tech AI & ML Student
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Cybersecurity
+🤖 Interested in Machine Learning, Artificial Intelligence & Data Science
 
-💻 Skilled in Python, C++, HTML, CSS, SQL, Git & GitHub
+💻 Currently building projects with Python and ML tools
 
-🌱 Currently Learning: Java, AI/ML, Cybersecurity, and AI Agents
-
-🚀 Building projects, exploring new technologies, and continuously improving my skills
+🌱 Learning NumPy, Pandas, Scikit-learn and ML fundamentals
 
 📍 Bhopal, India
 
